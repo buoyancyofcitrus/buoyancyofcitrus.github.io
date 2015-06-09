@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://buoyancyofcitrus.github.io
+title: Buoyancy of Citrus 
+paginate: 5
